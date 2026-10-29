@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top thin accent guide bar -->
+    <path
+        android:strokeColor="#2C323B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 30,30 L 78,30" />
+
+    <!-- RepForge Neon Dot -->
+    <path
+        android:fillColor="#10E868"
+        android:pathData="M 72,39 A 5.5,5.5 0 1,1 72,50 A 5.5,5.5 0 1,1 72,39 Z" />
+
+    <!-- RepForge Kinetic 'R' Mark -->
+    <path
+        android:fillColor="#10E868"
+        android:pathData="M 34,36 L 56,36 C 63,36 68,40 68,46 C 68,51 64,54 59,55.5 L 69,72 L 57.5,72 L 49,57 L 44,57 L 44,72 L 34,72 Z M 44,44 L 44,50.5 L 54.5,50.5 C 57.5,50.5 59.5,49 59.5,47.2 C 59.5,45.2 57.5,44 54.5,44 Z" />
+
+    <!-- Bottom thin accent guide bar -->
+    <path
+        android:strokeColor="#2C323B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 30,78 L 78,78" />
+</vector>

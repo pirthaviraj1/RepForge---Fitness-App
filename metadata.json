@@ -1,0 +1,6 @@
+{
+  "name": "RepForge",
+  "description": "RepForge – AI Fitness Coach: Train Smart, Build Strength, Become Better. Workouts, exercise library with animations, male AI voice guidance, smart timers, meal planning, and live fitness coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
