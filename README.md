@@ -1,4 +1,5 @@
 # RepForge — Fitness & Workout App 💪
+![RepForge Fitness App](repforge-logo.png)
 
 **Forge your strength. Build better habits. Become your best self.**
 
